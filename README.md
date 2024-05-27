@@ -9,10 +9,15 @@ https://gowtham1809.github.io/Weather-App/
 Features
 
 ->Display current weather information for a specified location.
+
 ->Show a 5-day weather forecast with hourly details.
+
 ->Option to search for weather information by city name.
+
 ->Automatic geolocation detection for current weather.
+
 ->Responsive design for mobile, tablet, and desktop devices.
+
 
 Technologies Used
 
