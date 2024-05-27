@@ -2,8 +2,8 @@ Weather App
 
 ->A simple weather application built with React.js that allows users to check the current weather and forecast for different locations.Including current location.
 
-Demo Link
---> experience the Weather App <--
+Experience the Weather App 
+
 https://gowtham1809.github.io/Weather-App/
 
 Features
@@ -17,8 +17,11 @@ Features
 Technologies Used
 
 -> React.js
+
 -> Axios (for API requests)
+
 -> CSS (for styling)
+
 -> OpenWeatherMap API (for weather data)
 
 Installation
@@ -26,23 +29,28 @@ Installation
 To run this project locally, follow these steps:
 
 1. Clone the repository:
+   
    git clone https://github.com/gowtham1809/Weather-App
 Navigate to the project directory:
 
-2. Go to the directory
+3. Go to the directory:
+   
 cd weather-app
-Install dependencies:
 
-3. Install Dependencies
+5. Install Dependencies:
+   
 npm install
 
-4. Set up your OpenWeatherMap API key:
+7. Set up your OpenWeatherMap API key:
 
 Get your API key from OpenWeatherMap.
+
 Create a .env file in the root directory of the project.
+
 Add your API key to the .env file
 
 5. Start the development server:
+   
 npm start,Open your browser and visit http://localhost:3000 to view the app.
 
 
