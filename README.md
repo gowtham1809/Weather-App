@@ -41,23 +41,23 @@ To run this project locally, follow these steps:
 
 3. Go to the directory:
    
-  cd weather-app
+   cd weather-app
 
 5. Install Dependencies:
    
-  npm install
+   npm install
 
 7. Set up your OpenWeatherMap API key:
 
-  Get your API key from OpenWeatherMap.
+   ->Get your API key from OpenWeatherMap.
 
-  Create a .env file in the root directory of the project.
+   ->Create a .env file in the root directory of the project.
 
-  Add your API key to the .env file
+   ->Add your API key to the .env file
 
 5. Start the development server:
    
-  npm start,Open your browser and visit http://localhost:3000 to view the app.
+   npm start,Open your browser and visit http://localhost:3000 to view the app.
 
 
 
